@@ -12,6 +12,4 @@ The "mat" property in the script is the material used for rendering the FPS grap
 
 A project with the menu in a sample scene is on the Unity Asset Store. The waterfall sound in the sample scene is taken from the Unity Technologies Sewer Demo.
 
-Please direct any questions to the Fugu Games Facebook page,
-http://facebook.com/fugugames or either the Fugu Games thread in the Unity
-forums Asset Store topic or the Pause Menu thread in the UnityGUI topic. (See the Asset Store description for links)
+Examples of its use are in the [Fugu Games](http://fugugames.com/) projects on itch.io

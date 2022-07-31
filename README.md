@@ -1,9 +1,5 @@
-# Unity scripts
+Unity editor and game scripts used to make [Fugu Games](http://fugugames.com/) and [HyperBowl](http://hyperbowl.rocks).
 
-Accumulated Unity editor and game scripts I've used over the years, until a couple of years ago, so this is basically an archive.
-Some scripts may be out of date, and of course the Javascript/Unityscript is obsolete but here if you want rewrite them.
+Not under development, anymore, so this is basically an archive (or trash can) of old scripts, some even still in deprecated Unityscript/Javascript.
 
-Available under the open source MIT License.
-
-Games using these scripts are on [Fugu Games](http://fugugames.com/)
-
+Only the scripts here are available under the MIT License, the projects and assets were from third-parties (Unity Standard Assets, Unity Asset Store...)

@@ -1,4 +1,4 @@
-![logo](/images/fugugames/logos/FUGUlogo_Front.jpg.jpg)
+![logo](/images/fugugames/logos/FUGUlogo_Front.jpg)
 
 
 
